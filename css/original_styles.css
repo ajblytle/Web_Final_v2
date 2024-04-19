@@ -1,0 +1,51 @@
+
+
+body {
+    background-image: url('assets/img/YosemiteCamping.jpg');
+    color: rgba(2, 131, 2, 0.948);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style:normal;
+}
+
+h5 {
+    text-align: center;
+    font-size: large;
+}
+
+a {
+    color: rgb(55, 164, 0)
+}
+
+a:visited {
+    color: rgb(25, 38, 39);
+}
+
+img {
+    border: 5px solid forestgreen;
+    padding: 6px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+
+iframe {
+    border: 5px solid forestgreen;
+    padding: 6px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+.image-container {
+    display:flex;
+}
+
+.image-container img {
+    margin-right: 150px; 
+}
